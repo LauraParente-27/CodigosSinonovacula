@@ -1,5 +1,5 @@
 # CodigosSinonovacula
-Códigos utilizadaos para a replicação do artigo 
+Códigos utilizados para a replicação do artigo 
 Genetic diversity and population structure of razor clam Sinonovacula constricta in Ariake Bay, Japan
 
 #SHELL
@@ -78,8 +78,6 @@ conda create -n base
 import ipyrad
 import ipyrad.analysis as ipa 
 vcffile = "/home/laura/Downloads/data.vcf"
-# Create the pca object
-# `quiet=True` indicates we don't care about the details, at this point
 imap = {
      "Kashima_c":["DRR250420","DRR250421","DRR250422","DRR250423","DRR250424"],
      "Nanaura_a":["DRR250425","DRR250426", "DRR250444","DRR250445"],
