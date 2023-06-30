@@ -1,4 +1,6 @@
+## Alunas: Laura Ribeiro 202100819 e Raquel Pereira 202100818
 # CodigosSinonovacula
+
 Códigos utilizados para a replicação do artigo 
 Genetic diversity and population structure of razor clam Sinonovacula constricta in Ariake Bay, Japan
 
